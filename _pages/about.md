@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3410 Mudd Hall</p>
-    <p>2233 Tech Dr, Third Floor</p>
+    <p>2233 Tech Dr, 3rd Floor</p>
     <p>Evanston, IL 60208</p>
 
 news: true # includes a list of news items
