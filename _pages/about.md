@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 5th year PhD candidate advised by Prof. Yan Chen at Northwestern University Computer Science Department. My research focuses on end-point detection of Advanced Persistent Threat (APT) on Linux systems. Specifically, I study threat modeling of APTs and using machine learning in threat detection.
+I'm a 5th year PhD candidate advised by Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) at Northwestern University Computer Science Department. My research focuses on end-point detection of Advanced Persistent Threat (APT) on Linux systems. Specifically, I study threat modeling of APTs and using machine learning in threat detection.
