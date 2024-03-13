@@ -1,11 +1,11 @@
 "wang":
-	- firstname: ["Lexus", "Lingzhi"]
-	  url: https://lexuswang.github.io/about/
+    - firstname: ["Lexus", "Lingzhi"]
+      url: https://lexuswang.github.io/about/
 
 "li":
-	- firstname: ["Zhenyuan"]
-	  url: https://li-zhenyuan.github.io/
+    - firstname: ["Zhenyuan"]
+      url: https://li-zhenyuan.github.io/
 
 "chen":
-	- firstname: ["Yan"]
-	  url: https://users.cs.northwestern.edu/~ychen/
+    - firstname: ["Yan"]
+      url: https://users.cs.northwestern.edu/~ychen/
