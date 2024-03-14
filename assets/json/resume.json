@@ -5,9 +5,18 @@
       "location": "Evanston, Illinois",
       "url": "https://www.mccormick.northwestern.edu/computer-science/",
       "area": "System Security",
-      "studyType": "PhD",
+      "studyType": "Ph.D",
       "startDate": "2019-09",
       "endDate": "present"
+    },
+    {
+      "institution": "Northwestern University",
+      "location": "Evanston, Illinois",
+      "url": "https://www.mccormick.northwestern.edu/computer-science/",
+      "area": "Computer Science, Applied Math",
+      "studyType": "B.S.",
+      "startDate": "2015-09",
+      "endDate": "2019-06"
     }
   ],
   "awards": [{}],
