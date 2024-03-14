@@ -33,7 +33,7 @@
     {
       "name": "APT detection",
       "icon": "fa-solid fa-tag",
-      "keywords": ["End-point Detection and Response", "Provenance-based Intrusion Detection System"]
+      "keywords": ["End-point Detection and Response", "Intrusion Detection System"]
     },
     {
       "name": "Security measurement and verification",
