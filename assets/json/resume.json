@@ -10,11 +10,7 @@
       "endDate": "present"
     }
   ],
-  "awards": [
-    {
-      
-    }
-  ],
+  "awards": [{}],
   "publications": [
     {
       "name": "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments",
@@ -28,23 +24,13 @@
     {
       "name": "APT detection",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "End-point Detection and Response",
-        "Provenance-based Intrusion Detection System"
-      ]
+      "keywords": ["End-point Detection and Response", "Provenance-based Intrusion Detection System"]
     },
     {
       "name": "LLM-based Pentesting",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Large Language Model",
-        "Retrieval Augmented Generation"
-      ]
+      "keywords": ["Large Language Model", "Retrieval Augmented Generation"]
     }
   ],
-  "projects": [
-    {
-      
-    }
-  ]
+  "projects": [{}]
 }
