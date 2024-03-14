@@ -36,7 +36,7 @@
       "keywords": ["End-point Detection and Response", "Intrusion Detection System"]
     },
     {
-      "name": "Security measurement and verification",
+      "name": "Security measurement",
       "icon": "fa-solid fa-tag",
       "keywords": ["MITRE evalaution", "Pentesting", "Attack reconstruction"]
     }
