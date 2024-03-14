@@ -3,7 +3,7 @@
   {% for content in education %}
     <li class="list-group-item">
       <div class="row">
-        <div class="col-xs-3 cl-sm-3 col-md-3 text-center" style="width: 75px">
+        <div class="col-xs-5 cl-sm-5 col-md-5 text-center" style="width: 75px">
           {% if content.startDate and content.startDate != '' %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
