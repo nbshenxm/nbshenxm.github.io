@@ -36,9 +36,9 @@
       "keywords": ["End-point Detection and Response", "Provenance-based Intrusion Detection System"]
     },
     {
-      "name": "LLM-based Pentesting",
+      "name": "Security measurement and verification",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Large Language Model", "Retrieval Augmented Generation"]
+      "keywords": ["MITRE evalaution", "Pentesting", "Attack reconstruction"]
     }
   ],
   "projects": [{}]
