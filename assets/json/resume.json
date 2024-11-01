@@ -22,6 +22,13 @@
   "awards": [{}],
   "publications": [
     {
+      "name": "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection",
+      "publisher": "NDSS 2025",
+      "releaseDate": "2024-11-01",
+      "url": "https://arxiv.org/html/2404.14720",
+      "summary": "We propose CAPTAIN, a rule-based PIDS capable of automatically adapting to diverse environments. Specifically, we propose three adaptive parameters to adjust the detection configuration with respect to nodes, edges, and alarm generation thresholds. We build a differentiable tag propagation framework and utilize the gradient descent algorithm to optimize these adaptive parameters based on the training data. We evaluate our system using data from DARPA Engagements and simulated environments. The evaluation results demonstrate that CAPTAIN enhances rule-based PIDS with learning capabilities, resulting in improved detection accuracy, reduced detection latency, lower runtime overhead, and more interpretable detection procedures and results compared to the state-of-the-art (SOTA) PIDS."
+    },
+    {
       "name": "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments",
       "publisher": "ACM AsiaCCS 2024",
       "releaseDate": "2024-07-01",
