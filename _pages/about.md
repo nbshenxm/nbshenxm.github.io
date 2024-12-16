@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a final year PhD candidate working with Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) at Northwestern University Computer Science Department. I am broadly interested in system security. My current research focuses on enhancing system security by applying AI techniques in defense and offense.
+I'm a final year PhD candidate working with Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) at Northwestern University Computer Science Department. I am broadly interested in system security and security measurement. My current research focuses on enhancing system security by applying AI techniques in defense and offense.
