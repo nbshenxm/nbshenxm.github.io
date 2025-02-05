@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Poster "LLM-Driven Automated Exploit Assessment for Penetration Testing" is accepted to appear in NDSS'25. :tada::tada:
+Our poster "LLM-Driven Automated Exploit Assessment for Penetration Testing" is accepted to appear in NDSS'25. :tada::tada:
