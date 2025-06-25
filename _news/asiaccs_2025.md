@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing" is accepted by AsiaCCS'25. :tada::tada: 
+Our paper "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing" is accepted by AsiaCCS'25. :tada::tada:
