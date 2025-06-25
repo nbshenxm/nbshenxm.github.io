@@ -19,7 +19,18 @@
       "endDate": "2019-06"
     }
   ],
-  "awards": [{}],
+  "awards": [
+    {
+      "title": "NDSS Symposium Student Fellowship",
+      "date": "2025",
+      "awarder": "NDSS Student Support Committee"
+    },
+    {
+      "title": "Northwestern Conference Travel Grant",
+      "date": "2023",
+      "awarder": "Northwestern University"
+    }
+  ],
   "publications": [
     {
       "name": "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection",

@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 I'm a final year PhD candidate working with Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) at Northwestern University Computer Science Department. I am broadly interested in system security and security measurement. My current research focuses on enhancing system security by applying AI techniques in defense and offense.
+
+I’m excited to share that I will be joining the Department of Computer Science at Hofstra University as a tenure-track Assistant Professor starting Fall 2025. I look forward to continuing my research at the intersection of AI and system security, mentoring students, and contributing to the growth of Hofstra’s cybersecurity programs!
