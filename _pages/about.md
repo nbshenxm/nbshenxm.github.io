@@ -6,7 +6,7 @@ subtitle: <a href='https://users.cs.northwestern.edu/~list/'>Northwestern Lab fo
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3410 Mudd Hall</p>
