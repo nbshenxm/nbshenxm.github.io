@@ -130,12 +130,15 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-pentestagent-incorporating-llm-agents-to-automated-penetration-testing-is-accepted-by-asiaccs-25-tada-tada",
           title: 'Our paper “PentestAgent: Incorporating LLM Agents to Automated Penetration Testing” is accepted by...',
           description: "",
+          section: "News",},{id: "news-our-paper-incorporating-gradients-to-rules-towards-online-adaptive-provenance-based-intrusion-detection-is-accepted-by-tdsc-tada-tada",
+          title: 'Our paper “Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection” is...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%78%69%61%6E%67%6D%69%6E%73%68%65%6E%32%30%31%39@%75.%6E%6F%72%74%68%77%65%73%74%65%72%6E.%65%64%75", "_blank");
+          window.open("mailto:%78%69%61%6E%67%6D%69%6E.%73%68%65%6E@%68%6F%66%73%74%72%61.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
