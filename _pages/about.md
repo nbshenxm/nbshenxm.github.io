@@ -9,7 +9,7 @@ profile:
   image: profile_pic_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>152 Hofstra University, 2nd Floor</p>
+    <p>152 Hofstra University</p>
     <p>Hempstead, NY 11549</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
