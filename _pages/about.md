@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: <a href='https://users.cs.northwestern.edu/~list/'>Computer Science Department, Hofstra University</a>
 
 profile:
   align: right
