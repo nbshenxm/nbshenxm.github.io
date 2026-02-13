@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+## Hofstra University
+
+<p>CSC 015: Fundamentals of Computer Science I: Problem Solving and Program Design (2025 Fall, 2026 Spring)</p>
+<p>CSC 017: Fundamentals of Computer Science III: Advanced Data Structures and Object-Oriented Programming (2025 Fall, 2026 Spring)</p>
+
+
 ## Northwestern University
 
 <p>CS 111: Fundamentals of Computer Programming I (2020 Fall, 2024 Fall)</p>
